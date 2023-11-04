@@ -34,5 +34,3 @@ else:
       time.sleep(0.1)
       d.write('\n')
       d.close()
- else:
-    print('hello world')
